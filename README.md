@@ -1,5 +1,3 @@
-# Apple Product Sale Performance Analysis
-
 # 📱 Apple Product Sales Performance Analysis
 
 ## 📊 Project Overview
