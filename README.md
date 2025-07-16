@@ -128,7 +128,7 @@ This project showcases **advanced SQL querying techniques** through the analysis
 
 ## ✅ Sample Queries
 
-### 1. 🔢 Total Revenue by Product
+ 1. 🔢 Total Revenue by Product
 ```sql
 SELECT 
     p.product_name,
