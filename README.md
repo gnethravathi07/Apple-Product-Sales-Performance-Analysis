@@ -137,6 +137,7 @@ FROM sales s
 JOIN product p ON s.product_id = p.product_id
 GROUP BY p.product_name;
 
+---
 
 ### 2. 📊 Revenue Contribution %
 ```sql
@@ -150,6 +151,8 @@ SELECT
 FROM sales s
 JOIN product p ON s.product_id = p.product_id
 GROUP BY p.product_name;
+
+---
 
 ### 3. 🥇 Most Sold Product per Category
 ```sql
@@ -172,6 +175,8 @@ FROM (
     GROUP BY c.category_name, p.product_name
 ) ranked
 WHERE rn = 1;
+
+---
 
 ## 🧠 Outcome
 By the end of this SQL analysis:
