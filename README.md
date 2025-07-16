@@ -39,82 +39,82 @@ This project showcases **advanced SQL querying techniques** through the analysis
 ### 🟢 Easy Level (1–20)
  1. Count of stores per country  
  2. Total quantity sold per store  
-- 3. Count of sales in December 2023  
-- 4. Stores with no warranty claims  
-- 5. Percentage of claims marked 'Warranty Void'  
-- 6. Store with highest units sold in last year  
-- 7. Count of unique products sold last year  
-- 8. Average price by category  
-- 9. Warranty claims in 2020  
-- 10. Best-selling day per store  
-- 11. Products launched after 2017 with claims  
-- 12. Warranty claims by repair status  
-- 13. Products never sold but under warranty  
-- 14. Total revenue by store by year  
-- 15. Products with > 1000 total units sold  
-- 16. Highest revenue day per city  
-- 17. Category-wise average quantity sold  
-- 18. Daily average sales per store  
-- 19. Top 3 best-selling products per year  
-- 20. Sales by quarter and year  
+ 3. Count of sales in December 2023  
+ 4. Stores with no warranty claims  
+ 5. Percentage of claims marked 'Warranty Void'  
+ 6. Store with highest units sold in last year  
+ 7. Count of unique products sold last year  
+ 8. Average price by category  
+ 9. Warranty claims in 2020  
+ 10. Best-selling day per store  
+ 11. Products launched after 2017 with claims  
+ 12. Warranty claims by repair status  
+ 13. Products never sold but under warranty  
+ 14. Total revenue by store by year  
+ 15. Products with > 1000 total units sold  
+ 16. Highest revenue day per city  
+ 17. Category-wise average quantity sold  
+ 18. Daily average sales per store  
+ 19. Top 3 best-selling products per year  
+ 20. Sales by quarter and year  
 
 ---
 
 ### 🟡 Moderate Level (21–50)
-- 21. Products with warranty > 30 days after sale  
-- 22. Sales grouped by weekday  
-- 23. Revenue per store per product  
-- 24. Days with no sales  
-- 25. Percentage of revenue by category  
-- 26. Monthly sales trend line data  
-- 27. Percentage growth in revenue per year  
-- 28. Store with lowest warranty % rate  
-- 29. Most popular product per region  
-- 30. Products with declining sales 3 months in a row  
-- 31. Median sale quantity per product  
-- 32. Warranty claims per store per month  
-- 33. Store revenue rank per year  
-- 34. Top 5 categories by revenue in 2023  
-- 35. Product contribution to total revenue  
-- 36. First and last sale date per product  
-- 37. Days between launch and first sale  
-- 38. Revenue variance per product (monthly)  
-- 39. Ratio of sales to claims per product  
-- 40. Warranty claims by product line  
-- 41. Year with highest claim count  
-- 42. Average time to warranty claim per store  
-- 43. Most common warranty status per product  
-- 44. Sales frequency per weekday  
-- 45. Warranty rate for each store  
-- 46. Best store by average daily revenue  
-- 47. Top 3 launch years by total product sales  
-- 48. Revenue per store per product category  
-- 49. Percentage of products claimed under warranty  
-- 50. Products launched but never sold  
+ 21. Products with warranty > 30 days after sale  
+ 22. Sales grouped by weekday  
+ 23. Revenue per store per product  
+ 24. Days with no sales  
+ 25. Percentage of revenue by category  
+ 26. Monthly sales trend line data  
+ 27. Percentage growth in revenue per year  
+ 28. Store with lowest warranty % rate  
+ 29. Most popular product per region  
+ 30. Products with declining sales 3 months in a row  
+ 31. Median sale quantity per product  
+ 32. Warranty claims per store per month  
+ 33. Store revenue rank per year  
+ 34. Top 5 categories by revenue in 2023  
+ 35. Product contribution to total revenue  
+ 36. First and last sale date per product  
+ 37. Days between launch and first sale  
+ 38. Revenue variance per product (monthly)  
+ 39. Ratio of sales to claims per product  
+ 40. Warranty claims by product line  
+ 41. Year with highest claim count  
+ 42. Average time to warranty claim per store  
+ 43. Most common warranty status per product  
+ 44. Sales frequency per weekday  
+ 45. Warranty rate for each store  
+ 46. Best store by average daily revenue  
+ 47. Top 3 launch years by total product sales  
+ 48. Revenue per store per product category  
+ 49. Percentage of products claimed under warranty  
+ 50. Products launched but never sold  
 
 ---
 
 ### 🔴 Advanced Level (51–70)
-- 51. City with highest revenue in 2022  
-- 52. Store-category combination with lowest sales  
-- 53. Products sold >50 times but 0 claims  
-- 54. Stores with consistent growth YoY  
-- 55. Months with no warranty claims  
-- 56. Peak sales day for each category  
-- 57. Warranty claim percentage by product  
-- 58. Products with >10% claim rate  
-- 59. Sales-to-claim ratio over time  
-- 60. Least selling product by country and year  
-- 61. Warranty claims filed within 180 days of sale  
-- 62. Claims for products launched in last 2 years  
-- 63. Months with >5,000 sales in last 3 years (USA)  
-- 64. Category with most warranty claims (last 2 yrs)  
-- 65. Percentage chance of claim after purchase (by country)  
-- 66. Year-over-year growth rate for stores  
-- 67. Correlation: price vs warranty claims (5 yrs)  
-- 68. Store with highest % of 'Paid Repaired' claims  
-- 69. Monthly running total of sales by store (4 years)  
-- 70. Store-wise year-by-year sales vs warranty trend  
+ 51. City with highest revenue in 2022  
+ 52. Store-category combination with lowest sales  
+ 53. Products sold >50 times but 0 claims  
+ 54. Stores with consistent growth YoY  
+ 55. Months with no warranty claims  
+ 56. Peak sales day for each category  
+ 57. Warranty claim percentage by product  
+ 58. Products with >10% claim rate  
+ 59. Sales-to-claim ratio over time  
+ 60. Least selling product by country and year  
+ 61. Warranty claims filed within 180 days of sale  
+ 62. Claims for products launched in last 2 years  
+ 63. Months with >5,000 sales in last 3 years (USA)  
+ 64. Category with most warranty claims (last 2 yrs)  
+ 65. Percentage chance of claim after purchase (by country)  
+ 66. Year-over-year growth rate for stores  
+ 67. Correlation: price vs warranty claims (5 yrs)  
+ 68. Store with highest % of 'Paid Repaired' claims  
+ 69. Monthly running total of sales by store (4 years)  
+ 70. Store-wise year-by-year sales vs warranty trend  
 
 ---
 
