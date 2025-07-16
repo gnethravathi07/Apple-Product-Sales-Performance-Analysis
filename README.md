@@ -37,8 +37,8 @@ This project showcases **advanced SQL querying techniques** through the analysis
 ## 🎯 SQL Question Bank (70 Questions)
 
 ### 🟢 Easy Level (1–20)
-- 1. Count of stores per country  
-- 2. Total quantity sold per store  
+ 1. Count of stores per country  
+ 2. Total quantity sold per store  
 - 3. Count of sales in December 2023  
 - 4. Stores with no warranty claims  
 - 5. Percentage of claims marked 'Warranty Void'  
