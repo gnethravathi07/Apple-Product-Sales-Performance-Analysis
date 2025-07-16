@@ -152,9 +152,9 @@ SELECT
 FROM sales s
 JOIN product p ON s.product_id = p.product_id
 GROUP BY p.product_name;
+```
 
-
-🧠 Outcome
+## 🧠 Outcome
 By the end of this SQL analysis:
 
 * Key business performance metrics are uncovered
