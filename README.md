@@ -154,6 +154,29 @@ JOIN product p ON s.product_id = p.product_id
 GROUP BY p.product_name;
 ```
 
+### 3. 🥇 Most Sold Product per Category
+``` Sql
+SELECT 
+    category_name,
+    product_name,
+    total_sales
+FROM (
+    SELECT 
+        c.category_name,
+        p.product_name,
+        COUNT(s.sale_id) AS total_sales,
+        ROW_NUMBER() OVER (
+            PARTITION BY c.category_name 
+            ORDER BY COUNT(s.sale_id) DESC
+        ) AS rn
+    FROM sales s
+    JOIN product p ON s.product_id = p.product_id
+    JOIN category c ON p.category_id = c.category_id
+    GROUP BY c.category_name, p.product_name
+) ranked
+WHERE rn = 1;
+```
+
 ## 🧠 Outcome
 By the end of this SQL analysis:
 
