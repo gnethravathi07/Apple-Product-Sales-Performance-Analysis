@@ -28,7 +28,7 @@ This project showcases **advanced SQL querying techniques** through the analysis
 - ✅ Table creation and schema design with constraints  
 - ✅ Data insertion and relationship setup (PKs and FKs)  
 - ✅ Basic to advanced `JOIN`s  
-- ✅ Filtering and aggregations (`WHERE`, `GROUP BY`, `HAVING`)  
+- ✅ Filtering and aggregations (`WHERE`, `GROUP BY`, `HAVING`)   
 - ✅ Window functions: `RANK()`, `ROW_NUMBER()`, `NTILE()`, `PERCENT_RANK()`  
 - ✅ Date formatting and month-based grouping  
 - ✅ Subqueries and Common Table Expressions (CTEs)  
