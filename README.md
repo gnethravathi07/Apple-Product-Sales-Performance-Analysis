@@ -6,7 +6,7 @@ This project showcases **advanced SQL querying techniques** through the analysis
 ---
 
 ## 🗃️ Database Schema
-
+ 
 ### `stores`
 - `store_id`, `store_name`, `city`, `country`
 
